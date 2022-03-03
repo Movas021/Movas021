@@ -13,6 +13,7 @@ Want to know more about me?
   </p>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=ffffff)
