@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Movas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-I’m a Backend Python Developer Undergraduate who is interested in front-end development. Currently, I am working mainly on Flask/Django stack projects. Also, I am working as a freelance graphic designer.
+I’m a Backend Python Developer Undergraduate who is interested in Python machine learning and creating automation softwares. Currently, I am working mainly on Flask/Django stack projects. Also, I am working as a freelance graphic designer and wordpress webdeveloper.
 
 Want to know more about me? 
 
