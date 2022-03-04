@@ -36,5 +36,4 @@ Want to know more about me?
 <img src="https://github-profile-trophy.vercel.app/?username=movas021&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 ------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=movas021.602d829)
-##### Credit: [hgdsandakalum](https://github.com/movas021) | Last Edited on: 17/10/2021
+##### Credit: [Movas021](https://github.com/movas021) | Last Edited on: 04.03.2022
