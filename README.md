@@ -26,10 +26,10 @@ Want to know more about me?
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/movas02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=movas021&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=movas021&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="150px"/>
 </a>
 <a href="https://github.com/movas021">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=movas021&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=movas021&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="150px" />
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
