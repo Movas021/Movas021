@@ -2,14 +2,11 @@
 
 I’m a Backend Python Developer Undergraduate who is interested in Python machine learning and creating automation softwares. Currently, I am working mainly on Flask/Django stack projects. Also, I am working as a freelance graphic designer and wordpress webdeveloper.
 
-Want to know more about me? 
+Contact me here: 
 
   <p>
-    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
-    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
+    <a href="mailto:parhamdh100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:parhamdh100@gmail.com)](mailto:parhamdh100@gmail.com"></a>
+    <a href="https://discord.com/users/630716541754933259" target="_blank"><img src="https://img.shields.io/badge/Discord-222222?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/630716541754933259)](https://discord.com/users/630716541754933259"></a>
   </p>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
