@@ -30,7 +30,7 @@ Contact me here:
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25">
-<img src="https://github-profile-trophy.vercel.app/?username=pama19991&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+<img src="https://github-profile-trophy.vercel.app/?username=pama1999&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 ------
 ##### Credit: [Parham](https://github.com/pama1999) | Last Edited on: 02.06.2022
