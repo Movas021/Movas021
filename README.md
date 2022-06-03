@@ -22,15 +22,15 @@ Contact me here:
 ![](https://img.shields.io/badge/WEB-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=ffffff)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25">
-<a href="https://github.com/movas02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=movas021&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="150"/>
+<a href="https://github.com/pama1999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pama1999&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="150"/>
 </a>
-<a href="https://github.com/movas021">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=movas021&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="150" />
+<a href="https://github.com/pama1999">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pama1999&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="150" />
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25">
-<img src="https://github-profile-trophy.vercel.app/?username=movas021&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+<img src="https://github-profile-trophy.vercel.app/?username=pama19991&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 ------
 ##### Credit: [Parham](https://github.com/pama1999) | Last Edited on: 02.06.2022
