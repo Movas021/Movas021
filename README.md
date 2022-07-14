@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Parham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>   
 
-I’m a Backend Python Developer Undergraduate who is interested in Python machine learning and creating automation softwares. Currently, I am working mainly on Flask/Django stack projects. Also, I am also working as a freelance graphic designer and wordpress webdeveloper.
+I’m a Backend Python Developer Undergraduate who is interested in Python machine learning and creating automation softwares. Currently, I am working mainly on Flask/Django stack projects. Also, have a very good sense of UI/UX Design and Graphic Design.
 
 Contact me here: 
 
